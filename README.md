@@ -3,7 +3,7 @@
 > Python Keylogger
 
 Hi!
-Just tried to make a keylogger for my class project in python please feel free to use or contribute if you want to.
+Just tried to make a keylogger for my class project in python please feel free contribute.
 
  #### Required Python Libraries
  - requests
