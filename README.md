@@ -15,5 +15,5 @@ Just tried to make a keylogger for my class project in python please feel free t
 
 
 
->     *** DisclaimerThis Channel is meant for educational purposes only and ***
+>     *** Disclaimer This Project is meant for educational purposes only and ***
 >     *** doesn't promote or encourage any illegal activities. ***
